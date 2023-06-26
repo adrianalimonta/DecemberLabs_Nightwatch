@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="Homepage"
+    errors="0" failures="0" hostname="" id="" package="Homepage" skipped="0"
+    tests="1" time="24.00" timestamp="">
+  
+    <testcase name="Click on GetInTouch Button - Gets the modal Open" classname="Homepage" time="12.00" assertions="5">
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

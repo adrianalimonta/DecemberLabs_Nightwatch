@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="3">
+
+  <testsuite name="GetInTouchModal"
+    errors="0" failures="0" hostname="" id="" package="GetInTouchModal" skipped="0"
+    tests="3" time="67.26" timestamp="">
+  
+    <testcase name="Priority fields - Correctly displayed" classname="GetInTouchModal" time="11.96" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Click in Send button with Priority empty fields - Shows border&#39;fields in red" classname="GetInTouchModal" time="9.143" assertions="20">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Fullfilling Priority empty fields - Eliminate the red border color" classname="GetInTouchModal" time="12.53" assertions="12">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
